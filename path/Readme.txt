@@ -1,1 +1,1 @@
-HOG + PCA + NN + SVM
+Path Contains Pre Processing Methods
