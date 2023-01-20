@@ -1,2 +1,5 @@
 Latest HOG+PCA+NN+SVM 3
+
 Under Development 3.1
+  FIX:  1. Correct Visualization Bug
+        2. Limit the feature variables 
